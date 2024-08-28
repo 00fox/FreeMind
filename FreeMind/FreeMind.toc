@@ -1,0 +1,49 @@
+## Interface: 110002
+## Title: |cff1784d1FreeMind|r
+## Notes: A very complete addon for World of Warcraft without having to be overwhelmed by settings
+## Author: 00fox
+## X-Email: mail@00fox.com
+## X-Website: https://github.com/00fox/FreeMind
+## X-Feedback: issues@00fox.com
+## X-Category: Action Bars
+## X-License: Artistic License 2.0
+## X-Credits: 
+## X-Curse-Project-ID: 1092645
+## Version: Alpha-11.0.2-0
+
+## X-WoWI-ID: 
+## X-Wago-ID: 
+
+## DefaultState: enabled
+## LoadOnDemand: 0
+## IconTexture: Interface\Icons\spell_shadow_brainwash
+## SavedVariables: FreeMindDB
+## AddonCompartmentFunc: FreeMind_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: FreeMind_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: FreeMind_OnAddonCompartmentLeave
+## RequiredDeps: 
+## OptionalDeps: Masque, GatherMate2, Routes
+
+#@no-lib-strip@
+## FoxDB.lua
+#@end-no-lib-strip@
+
+## Core ##
+FreeMind.xml
+FreeMind.lua
+
+## Modules ##
+Minimap.lua
+Distance.lua
+Efficiency.lua
+TrackingBar.lua
+Quests.lua
+CombatMode.lua
+ActionButton.lua
+ActionBar.lua
+NamePlates.lua
+Buttons.lua
+
+## Parameters ##
+Thumbnails.lua
+Settings.lua
