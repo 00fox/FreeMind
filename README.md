@@ -4,6 +4,7 @@
 
 # FreeMind is an addon that changes the way you use World of Warcraft
 Still in alpha, opened beta soon...
+
 Initially there will only be the English version.
 
 FreeMind is a complete addon, made of several modules that do not use resources if they are not used.
