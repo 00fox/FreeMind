@@ -148,6 +148,6 @@ You will find in particular:
   - not in conflict with addon compartment.
 
 Related projects:
-- Mask
+- Masque
 - GatherMate
 - Routes
