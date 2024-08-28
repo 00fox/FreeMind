@@ -7,7 +7,7 @@
 ## X-Feedback: issues@00fox.com
 ## X-Category: Action Bars
 ## X-License: Artistic License 2.0
-## X-Credits: 
+## X-Credits: AllTheThings, Atlas, AtlasLoot, Deadly Boss Mods, Handynotes, Notepad, Quest Completist, RareScanner, World Map Tracking Enhanced
 ## X-Curse-Project-ID: 1092645
 ## Version: Alpha-11.0.2-0
 
