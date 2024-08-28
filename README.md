@@ -1,9 +1,10 @@
 ﻿Please consider supporting the project by clicking [![Github Sponsorship](.github/Sponsors.gif)](https://github.com/sponsors/00fox)
 
-**Report Issues via CurseForge or by mail at issues@00fox.com**
+**You can report issues by mail at issues@00fox.com**
 
 # FreeMind is an addon that changes the way you use World of Warcraft
 Still in alpha, opened beta soon...
+Initially there will only be the English version.
 
 FreeMind is a complete addon, made of several modules that do not use resources if they are not used.
   This does not drown the list of addons because the activation is done through the settings.
@@ -12,6 +13,8 @@ Instead of offering you no settings or too many,
   FreeMind will be like a house or a luxury car, a dream trip,
   which will adapt to your measurements, offering very personal options,
   in a coherent context between each module and wow.
+  Forget about controlling everything for a little while, enjoy comfort and consistency,
+  without losing performance, on the contrary.
 
 It is programmed from scratch with particular attention to the code, its clarity, simplicity, optimization
   without the use of libraries except one to save variables.
