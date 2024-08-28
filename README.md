@@ -3,9 +3,6 @@
 **You can report issues by mail at issues@00fox.com**
 
 # FreeMind is an addon that changes the way you use World of Warcraft
-Still in alpha, opened beta soon...
-
-Initially there will only be the English version.
 
 FreeMind is a complete addon, made of several modules that do not use resources if they are not used.
   This does not drown the list of addons because the activation is done through the settings.
@@ -16,6 +13,12 @@ Instead of offering you no settings or too many,
   in a coherent context between each module and wow.
   Forget about controlling everything for a little while, enjoy comfort and consistency,
   without losing performance, on the contrary.
+
+Still in alpha, opened beta soon...
+
+Initially there will only be the English version.
+
+There will be a wiki.
 
 It is programmed from scratch with particular attention to the code, its clarity, simplicity, optimization
   without the use of libraries except one to save variables.
@@ -37,7 +40,7 @@ You will find in particular:
   - the options are simple without being restrictive.
   - management of transparency and visibility, states, such as changing bars depending on which stance.
   - the bonus bar serves as a bar for professions, relax, or fishing and goes directly back to the first in combat.
-  - self-adaptation of bars in case of vehicle, BattlePet etc. usable in gamepad mode.
+  - self-adaptation of bars in case of vehicle, BattlePet etc. usable in GamePad mode too.
 
 - AssistMode:
   - which allows to establish priorities when it comes to targets, depending on the EditMode layout.
@@ -58,7 +61,7 @@ You will find in particular:
   - or allowing to regain control of the direction by leaving a window open, returning to the normal state once released.
 
 - Flyouts:
-  - if you use ActionBar, Flyouts are displayed on bar 3 or on 1 if it is not available.
+  - if you use ActionBar, flyouts are displayed on bar 3 or on 1 if it is not available.
   - but you can also create custom ones using macros, starting with /flyout
   - there are a few commands to add to make it close when released, or on the first press, or not,
   - or that it simply moves bar 3 to another and then returns to 3.
@@ -72,10 +75,10 @@ You will find in particular:
   - provide full gamepad support, with simplified solutions to do everything easily.
   - your gamepad bindings will be in the same place, and automated, even between multiple Xbox, Sony or Generic types,
   - unless you choose to do it manually.
-  - some are usable with the keyboard, like for the ring, quests, or CombatMode inversion.
+  - some are usable with the keyboard, like for the Ring, Quests, or CombatMode inversion.
 
 - Ring:
-  - is precisely one of these buttons, revealing a simple circle with a flyout action bar.
+  - is precisely one of these buttons, revealing a simple circle with a Flyout action bar.
   - so you can add a bunch of things that the classic bars don't support and have the count of the objects.
   - you can switch it to all bars 4 to 7.
   - in gamepad mode the character stops and you choose the action according to the direction of a cursor.
@@ -86,7 +89,7 @@ You will find in particular:
   - or draggable independently in custom flyouts.
   - about action bars, markers, targeting, object management, different states of module options etc.
 
-- QuickMenu
+- QuickMenu:
   - You will find part of it in a QuickMenu, accessible by right-clicking on the location of the minimap.
 
 - Nameplates:
@@ -104,7 +107,7 @@ You will find in particular:
 - TrackingBar:
   - offers visual fields directly on the reputation bar.
   - roll, specialisation, time, memory, bag, gamepad battery, latency, currencies, gold and durability.
-  - some of which are customizable by right-clicking.
+  - some of which are customizable by left/right-clicking.
 
 - Minimap:
   - which allows you to have a more pleasant one, with some settings accessible under EditMode.
