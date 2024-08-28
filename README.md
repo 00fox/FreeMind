@@ -2,5 +2,6 @@
 
 **Report Issues via CurseForge or by mail at issues@00fox.com**
 
-# FreeMind is a complete addon that changes the way you use World of Warcraft
+# FreeMind is an addon that changes the way you use World of Warcraft
+Still in alpha, opened beta soon...
 
