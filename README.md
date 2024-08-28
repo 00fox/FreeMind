@@ -113,8 +113,8 @@ You will find in particular:
   - order of priority between the target, the focus and mouseover possible.
 
 - Cursor:
-- a nice animation super well set, to never lose your cursor.
-- very useful with GamePad or CombatMode.
+  - a nice animation super well set, to never lose your cursor.
+  - very useful with GamePad or CombatMode.
 
 - Efficiency:
   - Addons Memory Usage.
