@@ -59,6 +59,8 @@ You will find in particular:
   - but is also usable with the mouse, the buttons then allow you to target and interact.
   - a binding allows to interfere the current state, making you free when you want
   - or allowing to regain control of the direction by leaving a window open, returning to the normal state once released.
+  - you can select some frames to not unlock automatically, for example bags, or WorldMap unlock only with QuestLog.
+  - while in mouse mode with gamepad, you get left/right mouse click and scroll up/down with right buttons.
 
 - Flyouts:
   - if you use ActionBar, flyouts are displayed on bar 3 or on 1 if it is not available.
@@ -124,6 +126,7 @@ You will find in particular:
   - very useful with GamePad or CombatMode.
 
 - Efficiency:
+  - Resizing between a small WorldMap over the minimap and a larger one with the QuestLog.
   - Addons Memory Usage.
   - Unregister error messages.
   - Auto-filled delete item.
